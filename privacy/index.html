@@ -8,89 +8,76 @@
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Space+Grotesk:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="../style.css" />
   </head>
-  <body class="legal-page">
-    <div class="background-blur background-blur--mint"></div>
-    <div class="background-blur background-blur--orange"></div>
+  <body class="landing-shell legal-shell">
+    <div class="bg-orb bg-orb--teal"></div>
+    <div class="bg-orb bg-orb--purple"></div>
 
-    <header class="site-header">
+    <header class="topbar">
       <a class="brand" href="../">
-        <img src="../assets/brand-mark.svg" alt="" width="36" height="36" />
-        <span class="brand__wordmark">CleanerOne</span>
+        <img src="../assets/brand-mark.svg" alt="" width="32" height="32" />
+        <span>CleanerOne</span>
       </a>
-
-      <div class="header-actions">
-        <a class="button button--ghost" href="../terms/">Terms</a>
-        <a class="button button--solid" href="../">Back to home</a>
+      <div class="topbar-actions">
+        <a class="btn btn--ghost" href="../terms/">User Agreement</a>
+        <a class="btn btn--primary" href="../">Back to Home</a>
       </div>
     </header>
 
     <main class="legal-main">
-      <section class="legal-hero">
-        <span class="eyebrow">Privacy Policy</span>
-        <h1>Privacy policy placeholder for CleanerOne.</h1>
-        <p class="lead">
-          Replace this draft with your final legal copy before publishing. The layout
-          is ready; the legal wording still needs your real data handling details.
-        </p>
-        <div class="legal-note">
-          Last updated: replace this line with your real date. This page is a content
-          scaffold, not legal advice.
-        </div>
-      </section>
+      <span class="pill">Privacy Policy</span>
+      <h1>Privacy policy placeholder for CleanerOne.</h1>
+      <p>
+        Replace this draft with your final legal text before publishing.
+        This page is a structure template, not legal advice.
+      </p>
+      <div class="legal-note">
+        Last updated: replace with your real update date.
+      </div>
 
       <section class="legal-stack">
         <article class="legal-card">
-          <h2>1. Information we access</h2>
+          <h2>1. Information access</h2>
           <p>
-            Explain what the app can access, such as photo library content, optional
-            tracking permission, purchase status, crash diagnostics, and analytics.
+            Explain exactly which data types are accessed, such as media library items,
+            optional analytics events, and purchase state.
           </p>
           <ul>
-            <li>Photo library access for cleanup and media review</li>
-            <li>Optional analytics and diagnostics, if enabled</li>
-            <li>Subscription or purchase state where applicable</li>
+            <li>Media access for duplicate and clutter detection</li>
+            <li>Optional analytics for stability and product improvement</li>
+            <li>Subscription state for premium feature access</li>
           </ul>
         </article>
 
         <article class="legal-card">
-          <h2>2. How the information is used</h2>
+          <h2>2. Usage purpose</h2>
           <p>
-            State the purpose precisely. Do not write vague marketing mush here.
-            Users want to know what the permission actually unlocks.
-          </p>
-          <ul>
-            <li>To analyze media categories and surface cleanup candidates</li>
-            <li>To improve app stability and performance</li>
-            <li>To manage subscription or premium feature access</li>
-          </ul>
-        </article>
-
-        <article class="legal-card">
-          <h2>3. Analytics and advertising</h2>
-          <p>
-            Describe whether you use Firebase, AdMob, attribution tools, or other
-            third-party services. Be explicit about what is optional versus essential.
+            Describe why each permission exists and what function it unlocks in the app.
           </p>
         </article>
 
         <article class="legal-card">
-          <h2>4. Data retention and deletion</h2>
+          <h2>3. Third-party services</h2>
           <p>
-            Explain how long diagnostic or analytics data may be retained, and how users
-            can request deletion or stop using the app.
+            List SDKs and services you use, such as Firebase or AdMob, and clarify if
+            each service is required or optional.
+          </p>
+        </article>
+
+        <article class="legal-card">
+          <h2>4. Data retention and controls</h2>
+          <p>
+            Clarify retention periods and how users can stop processing or request support.
           </p>
         </article>
 
         <article class="legal-card">
           <h2>5. Contact</h2>
-          <p>
-            Add your support contact here. Example: <strong>hello@cleanerone.pro</strong>
-          </p>
+          <p>Support email placeholder: hello@cleanerone.pro</p>
         </article>
       </section>
     </main>

@@ -3,47 +3,47 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CleanerOne | Photo Cleanup Without the Mess</title>
+    <title>CleanerOne | Smart Photo Cleanup</title>
     <meta
       name="description"
-      content="CleanerOne helps you spot duplicates, blurry shots, screenshots, and oversized videos before your camera roll turns into a digital landfill."
+      content="CleanerOne helps you remove duplicate photos, screenshots, and clutter with a clean swipe-first experience."
     />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
-      href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;700;800&family=Space+Grotesk:wght@400;500;700&display=swap"
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body class="landing-page">
-    <div class="background-blur background-blur--mint"></div>
-    <div class="background-blur background-blur--orange"></div>
+  <body class="landing-shell">
+    <div class="bg-orb bg-orb--teal"></div>
+    <div class="bg-orb bg-orb--purple"></div>
 
-    <header class="site-header">
+    <header class="topbar">
       <a class="brand" href="#top" aria-label="CleanerOne home">
-        <img src="assets/brand-mark.svg" alt="" width="36" height="36" />
-        <span class="brand__wordmark">CleanerOne</span>
+        <img src="assets/brand-mark.svg" alt="" width="32" height="32" />
+        <span>CleanerOne</span>
       </a>
 
-      <nav class="desktop-nav" aria-label="Primary">
-        <a href="#features">Features</a>
-        <a href="#screens">Screens</a>
-        <a href="#privacy-blurb">Privacy</a>
-        <a href="#faq">FAQ</a>
+      <nav class="nav-desktop" aria-label="Primary">
+        <a href="#features" data-i18n="nav_features">Features</a>
+        <a href="#how" data-i18n="nav_how">How It Works</a>
+        <a href="#screens" data-i18n="nav_screens">Screenshots</a>
       </nav>
 
-      <div class="header-actions">
-        <a class="button button--ghost" href="privacy/">Privacy</a>
-        <a class="button button--solid" href="#" aria-label="App Store link placeholder"
-          >Download</a
-        >
+      <div class="topbar-actions">
+        <div class="lang-switch" role="group" aria-label="Language switch">
+          <button class="lang-btn is-active" data-lang="en" type="button">EN</button>
+          <button class="lang-btn" data-lang="tr" type="button">TR</button>
+        </div>
+        <a class="btn btn--primary" href="#" data-i18n="download_btn">Download</a>
         <button
-          class="menu-toggle"
+          class="menu-btn"
           type="button"
+          aria-controls="mobile-menu"
           aria-expanded="false"
-          aria-controls="mobile-nav"
-          aria-label="Open menu"
+          aria-label="Open mobile menu"
         >
           <span></span>
           <span></span>
@@ -51,300 +51,179 @@
       </div>
     </header>
 
-    <div class="mobile-nav" id="mobile-nav" hidden>
-      <a href="#features" data-nav-close>Features</a>
-      <a href="#screens" data-nav-close>Screens</a>
-      <a href="#privacy-blurb" data-nav-close>Privacy</a>
-      <a href="#faq" data-nav-close>FAQ</a>
-      <a href="privacy/" data-nav-close>Privacy Policy</a>
-      <a href="terms/" data-nav-close>Terms</a>
+    <div id="mobile-menu" class="mobile-menu" hidden>
+      <a href="#features" data-nav-close data-i18n="nav_features">Features</a>
+      <a href="#how" data-nav-close data-i18n="nav_how">How It Works</a>
+      <a href="#screens" data-nav-close data-i18n="nav_screens">Screenshots</a>
+      <a href="privacy/" data-nav-close data-i18n="privacy_link">Privacy Policy</a>
+      <a href="terms/" data-nav-close data-i18n="terms_link">User Agreement</a>
     </div>
 
     <main id="top">
-      <section class="hero section section--first">
+      <section class="hero block">
         <div class="hero-copy reveal">
-          <span class="eyebrow">Storage cleanup, but with taste</span>
+          <span class="pill" data-i18n="hero_badge">Available on iOS</span>
           <h1>
-            Your camera roll called.
-            <span>It wants adult supervision.</span>
+            <span data-i18n="hero_title_top">Clean your library</span>
+            <em data-i18n="hero_title_em">without the chaos.</em>
           </h1>
-          <p class="lead">
-            CleanerOne helps you find duplicate photos, screenshots, large videos,
-            and clutter-heavy albums before they quietly colonize your storage.
+          <p data-i18n="hero_subtitle">
+            CleanerOne finds duplicates, screenshots, and heavy files in minutes so your
+            camera roll stays usable.
           </p>
 
-          <div class="hero-actions">
-            <a class="button button--solid button--large" href="#"
-              >Download on the App Store</a
+          <div class="hero-cta">
+            <a class="btn btn--primary btn--wide" href="#" data-i18n="hero_cta_primary"
+              >Download on App Store</a
             >
-            <a class="button button--ghost button--large" href="#screens"
-              >See how it looks</a
+            <a class="btn btn--ghost btn--wide" href="#how" data-i18n="hero_cta_secondary"
+              >Learn More</a
             >
           </div>
 
-          <div class="hero-tags" aria-label="Highlights">
-            <span>Smart duplicate detection</span>
-            <span>Swipe-to-clean flow</span>
-            <span>Private hidden album</span>
-            <span>Made for modern iPhone cleanup</span>
+          <div class="hero-stats">
+            <article>
+              <strong>10K+</strong>
+              <span data-i18n="metric_downloads">Downloads</span>
+            </article>
+            <article>
+              <strong>4.9</strong>
+              <span data-i18n="metric_rating">App Rating</span>
+            </article>
+            <article>
+              <strong>50K+</strong>
+              <span data-i18n="metric_cleaned">Media Reviewed</span>
+            </article>
           </div>
         </div>
 
-        <div class="hero-visual reveal">
-          <div class="hero-note hero-note--top">
-            <strong>Fast triage</strong>
-            <span>See what deserves deletion before your storage starts whining.</span>
-          </div>
-
+        <div class="hero-art reveal">
           <img
-            class="device-art"
             src="assets/hero-phone.svg"
-            alt="CleanerOne app mockup"
+            alt="CleanerOne app screen placeholder"
             width="700"
             height="860"
           />
-
-          <div class="hero-note hero-note--bottom">
-            <strong>Hidden clutter wins</strong>
-            <span>Screenshots, bursts, duplicates, and random chaos. The usual suspects.</span>
-          </div>
         </div>
       </section>
 
-      <section class="proof-strip reveal" aria-label="CleanerOne highlights">
-        <article>
-          <span class="proof-strip__label">Cleanup rhythm</span>
-          <strong>Swipe, review, reclaim</strong>
-        </article>
-        <article>
-          <span class="proof-strip__label">Privacy posture</span>
-          <strong>Built to feel safe, not sketchy</strong>
-        </article>
-        <article>
-          <span class="proof-strip__label">Designed for</span>
-          <strong>People with 24,000 photos and regrets</strong>
-        </article>
+      <section class="block section-head" id="features">
+        <p class="kicker" data-i18n="features_kicker">Features</p>
+        <h2 data-i18n="features_title">The important parts, without feature noise.</h2>
       </section>
 
-      <section class="section section--tint" id="features">
-        <div class="section-head reveal">
-          <span class="eyebrow">Why it works</span>
-          <h2>The cleanup app that does not look like it hates design.</h2>
-          <p>
-            CleanerOne is meant to turn storage cleanup from a guilty chore into a
-            structured, fast decision flow.
+      <section class="block feature-grid">
+        <article class="card reveal">
+          <p class="card-index">01</p>
+          <h3 data-i18n="feature_1_title">Smart duplicate detection</h3>
+          <p data-i18n="feature_1_body">
+            Spot similar photos and repeated screenshots quickly, then decide what stays.
           </p>
-        </div>
-
-        <div class="feature-grid">
-          <article class="feature-card reveal">
-            <span class="feature-card__index">01</span>
-            <h3>Smart media sorting</h3>
-            <p>
-              Surface similar photos, screenshots, large videos, and obvious clutter
-              categories without making the whole experience feel like spreadsheet duty.
-            </p>
-          </article>
-
-          <article class="feature-card reveal">
-            <span class="feature-card__index">02</span>
-            <h3>Swipe cleanup flow</h3>
-            <p>
-              Review candidates quickly, keep what matters, and remove what clearly did
-              not need to survive your lock screen era.
-            </p>
-          </article>
-
-          <article class="feature-card reveal">
-            <span class="feature-card__index">03</span>
-            <h3>Private hidden album</h3>
-            <p>
-              Keep selected content tucked away behind a more deliberate, privacy-aware
-              entry point instead of pretending the default Photos app setup is enough.
-            </p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section" id="flow">
-        <div class="section-head reveal">
-          <span class="eyebrow">How it feels</span>
-          <h2>Fast enough to use, clear enough to trust.</h2>
-        </div>
-
-        <div class="process-grid">
-          <article class="process-card reveal">
-            <span class="process-card__step">Step 1</span>
-            <h3>Scan your library</h3>
-            <p>
-              Let CleanerOne surface clusters, duplicates, screenshots, and heavy files
-              that deserve attention.
-            </p>
-          </article>
-
-          <article class="process-card reveal">
-            <span class="process-card__step">Step 2</span>
-            <h3>Review without friction</h3>
-            <p>
-              Browse recommendations in a visual flow rather than tapping through a sad
-              maze of folders and second-guessing every decision.
-            </p>
-          </article>
-
-          <article class="process-card reveal">
-            <span class="process-card__step">Step 3</span>
-            <h3>Keep the good stuff</h3>
-            <p>
-              Preserve the photos you care about, remove the clutter you do not, and
-              move on with your day like a functional person.
-            </p>
-          </article>
-        </div>
-      </section>
-
-      <section class="section section--gallery" id="screens">
-        <div class="section-head reveal">
-          <span class="eyebrow">Preview</span>
-          <h2>Replace these placeholders with your real screenshots later.</h2>
-          <p>
-            The section is already wired for app visuals, captions, and a polished layout.
-            Swap the SVG files or point these cards to exported App Store screenshots.
+        </article>
+        <article class="card reveal">
+          <p class="card-index">02</p>
+          <h3 data-i18n="feature_2_title">Swipe-first cleanup flow</h3>
+          <p data-i18n="feature_2_body">
+            Keep, delete, or skip with minimal taps. Fast decisions, fewer mistakes.
           </p>
-        </div>
-
-        <div class="gallery-grid">
-          <figure class="gallery-card reveal">
-            <img
-              src="assets/shot-smart-scan.svg"
-              alt="Placeholder screenshot for smart scan view"
-              width="560"
-              height="720"
-            />
-            <figcaption>
-              <strong>Smart Scan</strong>
-              <span>Shows cleanup categories before the user starts guessing.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card reveal">
-            <img
-              src="assets/shot-swipe-mode.svg"
-              alt="Placeholder screenshot for swipe mode"
-              width="560"
-              height="720"
-            />
-            <figcaption>
-              <strong>Swipe Mode</strong>
-              <span>For fast keep/delete decisions with less mental overhead.</span>
-            </figcaption>
-          </figure>
-
-          <figure class="gallery-card reveal">
-            <img
-              src="assets/shot-hidden-vault.svg"
-              alt="Placeholder screenshot for hidden album"
-              width="560"
-              height="720"
-            />
-            <figcaption>
-              <strong>Hidden Album</strong>
-              <span>Private content in a section that looks intentional, not accidental.</span>
-            </figcaption>
-          </figure>
-        </div>
+        </article>
+        <article class="card reveal">
+          <p class="card-index">03</p>
+          <h3 data-i18n="feature_3_title">Hidden Album mode</h3>
+          <p data-i18n="feature_3_body">
+            Keep private media behind a cleaner, deliberate vault entry.
+          </p>
+        </article>
       </section>
 
-      <section class="section section--privacy" id="privacy-blurb">
-        <div class="privacy-panel reveal">
-          <div class="privacy-panel__copy">
-            <span class="eyebrow">Privacy posture</span>
-            <h2>People do not trust cleanup apps by default. Fair enough.</h2>
-            <p>
-              Your landing page should signal restraint. Explain what the app scans,
-              what it does not do, and how users stay in control.
-            </p>
-          </div>
-
-          <ul class="privacy-list">
-            <li>Make permissions sound precise, not creepy.</li>
-            <li>Link the privacy policy clearly instead of hiding it in the footer abyss.</li>
-            <li>Explain hidden album features in normal human language.</li>
-          </ul>
-        </div>
+      <section class="block section-head" id="how">
+        <p class="kicker" data-i18n="how_kicker">How It Works</p>
+        <h2 data-i18n="how_title">Three steps. No unnecessary complexity.</h2>
       </section>
 
-      <section class="section section--faq" id="faq">
-        <div class="section-head reveal">
-          <span class="eyebrow">FAQ</span>
-          <h2>Short answers for predictable questions.</h2>
-        </div>
-
-        <div class="faq-list">
-          <details class="faq-item reveal">
-            <summary>Does CleanerOne delete anything automatically?</summary>
-            <p>
-              No. The app should present candidates and let the user confirm what gets
-              removed. You can adjust this wording once the final behavior is locked.
-            </p>
-          </details>
-
-          <details class="faq-item reveal">
-            <summary>Can I use this page for App Store and TestFlight traffic?</summary>
-            <p>
-              Yes. Keep the primary CTA pointed at the App Store and the secondary CTA
-              pointed at TestFlight while you are still iterating.
-            </p>
-          </details>
-
-          <details class="faq-item reveal">
-            <summary>Can I move these files to another repo?</summary>
-            <p>
-              Yes. This folder is self-contained on purpose, so you can drop it into a
-              GitHub Pages repo without carrying the entire app project with it.
-            </p>
-          </details>
-        </div>
+      <section class="block steps">
+        <article class="step-card reveal">
+          <span class="step-badge" data-i18n="step_1_badge">Step 1</span>
+          <h3 data-i18n="step_1_title">Scan</h3>
+          <p data-i18n="step_1_body">
+            Run a quick scan to group duplicates, screenshots, and large videos.
+          </p>
+        </article>
+        <article class="step-card reveal">
+          <span class="step-badge" data-i18n="step_2_badge">Step 2</span>
+          <h3 data-i18n="step_2_title">Review</h3>
+          <p data-i18n="step_2_body">
+            Check grouped items in a visual flow designed for fast decisions.
+          </p>
+        </article>
+        <article class="step-card reveal">
+          <span class="step-badge" data-i18n="step_3_badge">Step 3</span>
+          <h3 data-i18n="step_3_title">Clean</h3>
+          <p data-i18n="step_3_body">
+            Remove clutter and reclaim storage while keeping what matters.
+          </p>
+        </article>
       </section>
 
-      <section class="section section--cta">
-        <div class="cta-panel reveal">
-          <div>
-            <span class="eyebrow">Ready to publish</span>
-            <h2>Swap the links, replace the screenshots, and ship the site.</h2>
-            <p>
-              You already have the structure. The remaining work is mostly content,
-              visuals, and pointing the buttons at real destinations.
-            </p>
-          </div>
+      <section class="block section-head" id="screens">
+        <p class="kicker" data-i18n="screens_kicker">Screenshots</p>
+        <h2 data-i18n="screens_title">Placeholder visuals ready for your real exports.</h2>
+      </section>
 
-          <div class="cta-panel__actions">
-            <a class="button button--solid button--large" href="#">App Store</a>
-            <a class="button button--ghost button--large" href="terms/">Terms</a>
-          </div>
+      <section class="block shots">
+        <figure class="shot reveal">
+          <img
+            src="assets/shot-smart-scan.svg"
+            alt="Smart scan placeholder screenshot"
+            width="560"
+            height="720"
+          />
+          <figcaption data-i18n="shot_1_caption">Smart Scan Overview</figcaption>
+        </figure>
+        <figure class="shot reveal">
+          <img
+            src="assets/shot-swipe-mode.svg"
+            alt="Swipe mode placeholder screenshot"
+            width="560"
+            height="720"
+          />
+          <figcaption data-i18n="shot_2_caption">Swipe Mode Cleanup</figcaption>
+        </figure>
+        <figure class="shot reveal">
+          <img
+            src="assets/shot-hidden-vault.svg"
+            alt="Hidden album placeholder screenshot"
+            width="560"
+            height="720"
+          />
+          <figcaption data-i18n="shot_3_caption">Hidden Album</figcaption>
+        </figure>
+      </section>
+
+      <section class="block cta reveal">
+        <h2 data-i18n="cta_title">Ready for cleaner storage?</h2>
+        <p data-i18n="cta_body">
+          Replace placeholder links with your App Store and TestFlight URLs, then publish.
+        </p>
+        <div class="cta-actions">
+          <a class="btn btn--primary" href="#" data-i18n="cta_primary">Download App</a>
+          <a class="btn btn--ghost" href="privacy/" data-i18n="privacy_link">Privacy Policy</a>
         </div>
       </section>
     </main>
 
-    <footer class="site-footer">
-      <div>
-        <a class="brand brand--footer" href="#top">
-          <img src="assets/brand-mark.svg" alt="" width="30" height="30" />
-          <span class="brand__wordmark">CleanerOne</span>
-        </a>
-        <p class="site-footer__note">
-          Placeholder marketing site for `cleanerone.pro`. Replace support email,
-          legal copy dates, and store links before publishing.
-        </p>
+    <footer class="footer block">
+      <div class="footer-brand">
+        <img src="assets/brand-mark.svg" alt="" width="28" height="28" />
+        <span>CleanerOne</span>
       </div>
-
       <div class="footer-links">
-        <a href="privacy/">Privacy Policy</a>
-        <a href="terms/">Terms of Use</a>
+        <a href="privacy/" data-i18n="privacy_link">Privacy Policy</a>
+        <a href="terms/" data-i18n="terms_link">User Agreement</a>
         <a href="mailto:hello@cleanerone.pro">hello@cleanerone.pro</a>
       </div>
-
-      <p class="site-footer__copyright">
-        <span id="current-year"></span> CleanerOne. All rights reserved.
+      <p class="footer-note">
+        <span id="current-year"></span> CleanerOne.
       </p>
     </footer>
 
