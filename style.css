@@ -314,12 +314,6 @@ h3 {
   gap: 0.18rem;
 }
 
-.hero-rating__stars {
-  color: #f5b8ff;
-  letter-spacing: 0.2em;
-  font-size: 1.1rem;
-}
-
 .hero-rating__meta p {
   margin: 0;
   font-size: 0.95rem;
@@ -727,9 +721,14 @@ h3 {
 }
 
 .review-stars {
-  font-size: 1rem;
-  letter-spacing: 0.16em;
-  color: #f6c453;
+  display: inline-flex;
+  font-size: 0.8rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: #89b6ff;
+  border: 1px solid rgba(137, 182, 255, 0.35);
+  border-radius: 999px;
+  padding: 0.2rem 0.55rem;
 }
 
 .review-card p {
