@@ -11,7 +11,6 @@ const translations = {
     hero_subtitle:
       "CleanerOne helps you review duplicates, screenshots, and heavy files in a fast cleanup flow that stays clear from start to finish.",
     hero_rating_line: "4.9/5 rating · 50K+ users",
-    hero_chip_label: "Space recovered",
     metric_downloads: "Downloads",
     metric_rating: "App Rating",
     metric_cleaned: "Media Reviewed",
@@ -89,7 +88,6 @@ const translations = {
     hero_subtitle:
       "CleanerOne yinelenenleri, ekran görüntülerini ve büyük dosyaları baştan sona net kalan hızlı bir temizlik akışında incelemeni sağlar.",
     hero_rating_line: "4.9/5 puan · 50K+ kullanıcı",
-    hero_chip_label: "Kazanılan alan",
     metric_downloads: "İndirme",
     metric_rating: "Uygulama puanı",
     metric_cleaned: "İncelenen medya",

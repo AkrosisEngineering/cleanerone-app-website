@@ -360,41 +360,15 @@ h3 {
   display: flex;
   justify-content: center;
   align-items: flex-start;
-  min-height: 22.8rem;
+  min-height: 0;
   padding: 0;
   border-radius: 0;
   background: transparent;
 }
 
 .hero-stage img {
-  max-width: 22.6rem;
+  max-width: 23.2rem;
   filter: drop-shadow(0 28px 60px rgba(0, 0, 0, 0.45));
-}
-
-.hero-chip {
-  position: absolute;
-  right: -1rem;
-  top: 3rem;
-  display: grid;
-  gap: 0.2rem;
-  padding: 0.9rem 1rem;
-  border-radius: 20px;
-  background: rgba(56, 50, 82, 0.72);
-  border: 1px solid rgba(255, 255, 255, 0.08);
-  backdrop-filter: blur(14px);
-  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.24);
-}
-
-.hero-chip span {
-  font-size: 0.72rem;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #c2c9de;
-}
-
-.hero-chip strong {
-  font-family: "Sora", sans-serif;
-  font-size: 1.4rem;
 }
 
 .section-head {
@@ -673,7 +647,7 @@ h3 {
 .screens-row {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1.25rem;
+  gap: 1.4rem;
   padding-top: 0.55rem;
 }
 
@@ -707,7 +681,7 @@ h3 {
 
 .screen-card__frame {
   padding: 0.5rem;
-  border-radius: 2rem;
+  border-radius: 1.75rem;
   background: linear-gradient(180deg, rgba(13, 21, 39, 0.96), rgba(7, 13, 26, 0.96));
   border: 1px solid rgba(138, 164, 210, 0.14);
   box-shadow:
@@ -717,10 +691,10 @@ h3 {
 
 .screen-card__frame img {
   width: 100%;
-  aspect-ratio: 9 / 15;
+  aspect-ratio: 9 / 12;
   object-fit: cover;
   object-position: center top;
-  border-radius: 1.6rem;
+  border-radius: 1.35rem;
 }
 
 .screen-card figcaption {
@@ -989,6 +963,51 @@ h3 {
   color: var(--text-soft);
 }
 
+.legal-markdown {
+  margin-top: 1.05rem;
+  padding: 1.15rem 1.2rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  background: rgba(11, 20, 44, 0.72);
+  backdrop-filter: blur(14px);
+  box-shadow: 0 20px 48px rgba(0, 8, 22, 0.34);
+}
+
+.legal-markdown h1 {
+  margin: 0.15rem 0 0.9rem;
+  font-size: clamp(1.7rem, 3.4vw, 2.4rem);
+  line-height: 1.15;
+}
+
+.legal-markdown h2 {
+  margin: 1.15rem 0 0.55rem;
+  font-size: clamp(1.15rem, 2.6vw, 1.55rem);
+}
+
+.legal-markdown p {
+  margin: 0.6rem 0;
+  color: var(--text-soft);
+  line-height: 1.72;
+}
+
+.legal-markdown ul {
+  margin: 0.55rem 0 0.8rem;
+  padding-left: 1.2rem;
+}
+
+.legal-markdown li {
+  color: var(--text-soft);
+  line-height: 1.68;
+  margin-bottom: 0.4rem;
+}
+
+.legal-markdown a {
+  color: #8fe8f4;
+  text-decoration: underline;
+  text-decoration-color: rgba(143, 232, 244, 0.5);
+  text-underline-offset: 2px;
+}
+
 @media (max-width: 1040px) {
   .hero,
   .review-grid,
@@ -1021,9 +1040,8 @@ h3 {
     align-items: flex-start;
   }
 
-  .hero-chip {
-    right: 0.4rem;
-    top: 1rem;
+  .hero-stage img {
+    max-width: 21.4rem;
   }
 }
 
@@ -1047,13 +1065,14 @@ h3 {
   .screens-row {
     display: flex;
     overflow-x: auto;
-    gap: 1rem;
+    gap: 1.15rem;
     padding: 1rem 0 0.35rem;
     scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
   }
 
   .screen-card {
-    flex: 0 0 15.5rem;
+    flex: 0 0 min(92vw, 22rem);
     transform: none;
     scroll-snap-align: start;
   }
@@ -1090,18 +1109,12 @@ h3 {
   }
 
   .hero-stage {
-    min-height: 18.9rem;
+    min-height: 0;
     padding: 0;
   }
 
   .hero-stage img {
-    max-width: 14.2rem;
-  }
-
-  .hero-chip {
-    position: static;
-    margin-top: 0.85rem;
-    width: fit-content;
+    max-width: 15.4rem;
   }
 
   .showcase-panel,
@@ -1133,8 +1146,8 @@ h3 {
   }
 
   .screen-card {
-    flex-basis: 78vw;
-    max-width: 17rem;
+    flex-basis: 94vw;
+    max-width: 21rem;
   }
 
   .cta-window__body {
