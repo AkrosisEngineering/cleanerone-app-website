@@ -250,7 +250,7 @@ h3 {
 }
 
 .hero h1 {
-  margin-top: 0.7rem;
+  margin-top: 0;
   max-width: 9.2ch;
   font-size: clamp(3rem, 6.2vw, 5.7rem);
   line-height: 0.98;
@@ -347,6 +347,7 @@ h3 {
 
 .hero-art {
   position: relative;
+  align-self: start;
 }
 
 .hero-stage {

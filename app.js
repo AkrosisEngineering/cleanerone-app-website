@@ -5,7 +5,6 @@ const translations = {
     nav_screens: "Screenshots",
     privacy_link: "Privacy Policy",
     terms_link: "User Agreement",
-    hero_badge: "AI powered precision",
     hero_title_top: "Clean your library",
     hero_title_em: "without the chaos.",
     hero_subtitle:
@@ -66,13 +65,13 @@ const translations = {
     reviews_title: "What people expect from a cleanup app.",
     review_1_body:
       "I cleaned years of screenshot clutter in one sitting. Fast, clear, and not stressful to use.",
-    review_1_name: "Emily K.",
+    review_1_name: "Ece Y.",
     review_2_body:
       "Swipe mode is the first cleanup flow that actually makes me want to finish the job.",
-    review_2_name: "Daniel R.",
+    review_2_name: "Mert A.",
     review_3_body:
       "The layout feels premium, and the app makes it easy to spot what is safe to delete.",
-    review_3_name: "Sofia T.",
+    review_3_name: "Zeynep K.",
     review_badge: "User feedback",
     review_meta_label: "App Store review",
     cta_title: "Ready for cleaner storage?",
@@ -89,7 +88,6 @@ const translations = {
     nav_screens: "Ekranlar",
     privacy_link: "Gizlilik Politikası",
     terms_link: "Kullanıcı Sözleşmesi",
-    hero_badge: "Yapay zeka destekli hassasiyet",
     hero_title_top: "Galerini temizle",
     hero_title_em: "karmaşa olmadan.",
     hero_subtitle:
@@ -149,13 +147,13 @@ const translations = {
     reviews_title: "İnsanlar bir temizlik uygulamasından bunu bekliyor.",
     review_1_body:
       "Yılların ekran görüntüsü kalabalığını tek oturuşta temizledim. Hızlı, açık ve kullanırken yormuyor.",
-    review_1_name: "Emily K.",
+    review_1_name: "Ece Y.",
     review_2_body:
       "Kaydırma modu, işi gerçekten bitirmek isteyeceğim ilk temizlik akışı oldu.",
-    review_2_name: "Daniel R.",
+    review_2_name: "Mert A.",
     review_3_body:
       "Tasarım premium hissettiriyor ve neyin güvenle silinebileceğini görmek kolaylaşıyor.",
-    review_3_name: "Sofia T.",
+    review_3_name: "Zeynep K.",
     review_badge: "Kullanıcı geri bildirimi",
     review_meta_label: "App Store yorumu",
     cta_title: "Daha düzenli depolamaya hazır mısın?",
