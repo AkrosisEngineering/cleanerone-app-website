@@ -21,7 +21,8 @@ The Application may offer premium features through Apple's in-app purchase syste
 
 * Subscription title, billing period, price, and renewal information are shown in the purchase screen before you subscribe.
 * Payment is handled by Apple according to Apple's terms and billing rules.
-* Auto-renewable subscriptions renew automatically unless canceled at least 24 hours before the end of the current billing period.
+* Auto-renewable subscriptions renew automatically unless canceled before the end of the current billing period.
+* If you cancel a subscription, cancellation will take effect at the end of the then-current billing period, and you will retain access to subscribed features until that period expires.
 * You can manage or cancel subscriptions in your Apple account settings.
 
 **Maintenance and Support**
@@ -54,7 +55,7 @@ Your use of the Application must also comply with applicable third-party terms, 
 
 **Availability, Updates, and Termination**
 
-Some features may require internet access, and your carrier or internet provider may charge fees. The Service Provider may modify, suspend, update, or discontinue the Application at any time. Your rights under these Terms terminate automatically if you fail to comply with them, and upon termination you must stop using the Application and delete it from your devices.
+Some features may require internet access, and your carrier or internet provider may charge fees. The Service Provider may modify, suspend, update, or discontinue the Application at any time. Your rights under these Terms terminate automatically if you fail to comply with them, and upon termination you must stop using the Application and delete it from your devices. Termination of your rights under these Terms does not limit any rights you may have under applicable consumer protection laws or affect billing and renewal matters that are governed by Apple's payment systems and terms.
 
 **Developer Contact Information**
 
@@ -69,7 +70,7 @@ You acknowledge and agree that Apple and Apple's subsidiaries are third-party be
 
 **Governing Law**
 
-These Terms are governed by the laws of the Republic of Türkiye, excluding conflict of law rules, except where mandatory consumer protection laws of your place of residence apply.
+These Terms are governed by the laws of the Republic of Türkiye, excluding conflict of law rules, except where mandatory consumer protection laws of your place of residence apply. Nothing in these Terms limits any non-waivable consumer rights or protections that you are entitled to under the applicable law of your place of residence.
 
 **Changes to These Terms**
 

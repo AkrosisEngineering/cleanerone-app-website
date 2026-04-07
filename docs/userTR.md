@@ -21,7 +21,8 @@ Uygulama, Apple'ın uygulama içi satın alma sistemi üzerinden auto-renewable 
 
 * Abonelik adı, faturalama dönemi, fiyat ve yenileme bilgileri, satın alma onayı vermeden önce satın alma ekranında gösterilir.
 * Ödeme, Apple'ın kendi şartları ve faturalama kuralları uyarınca Apple tarafından işlenir.
-* Auto-renewable subscription, mevcut faturalama döneminin bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir.
+* Auto-renewable subscription, mevcut faturalama döneminin bitiminden önce iptal edilmezse otomatik yenilenir.
+* Aboneliğinizi iptal ettiğiniz taktirde, mevcut abonelik sürenizin sonuna kadar abonelik imkanlarından faydalanmaya devam edeceksiniz.
 * Aboneliklerinizi Apple hesap ayarlarınız üzerinden yönetebilir veya iptal edebilirsiniz.
 
 **Bakım ve Destek**
@@ -54,7 +55,7 @@ Uygulamayı kullanırken mobil operatör veya veri hizmeti sözleşmeniz ile App
 
 **Erişilebilirlik, Güncellemeler ve Sona Erme**
 
-Bazı özellikler internet erişimi gerektirebilir ve operatörünüz veya internet sağlayıcınız ücret yansıtabilir. Hizmet Sağlayıcı, Uygulamayı herhangi bir zamanda değiştirebilir, askıya alabilir, güncelleyebilir veya sonlandırabilir. Bu Koşullara uymazsanız, bu Koşullar kapsamındaki haklarınız kendiliğinden sona erer ve bu durumda Uygulamayı kullanmayı bırakıp cihazlarınızdan silmeniz gerekir.
+Bazı özellikler internet erişimi gerektirebilir ve operatörünüz veya internet sağlayıcınız ücret yansıtabilir. Hizmet Sağlayıcı, Uygulamayı herhangi bir zamanda değiştirebilir, askıya alabilir, güncelleyebilir veya sonlandırabilir. Bu Koşullara uymazsanız, bu Koşullar kapsamındaki haklarınız kendiliğinden sona erer ve bu durumda Uygulamayı kullanmayı bırakıp cihazlarınızdan silmeniz gerekir. Bu Koşullar kapsamındaki haklarınızın sona ermesi, geçerli tüketici koruma yasaları kapsamında sahip olabileceğiniz hakları sınırlamaz veya Apple'ın ödeme sistemleri ve şartlarına tabi olan faturalama ve yenileme konularını etkilemez.
 
 **Geliştirici İletişim Bilgileri**
 
@@ -69,7 +70,7 @@ Apple ve Apple'ın bağlı ortaklıklarının bu Koşulların üçüncü taraf l
 
 **Uygulanacak Hukuk**
 
-Bu Koşullar, ikamet ettiğiniz yerde uygulanması zorunlu tüketici koruma kuralları saklı kalmak kaydıyla, Türkiye Cumhuriyeti hukukuna tabidir.
+Bu Koşullar, ikamet ettiğiniz yerde uygulanması zorunlu tüketici koruma kuralları saklı kalmak kaydıyla, Türkiye Cumhuriyeti hukukuna tabidir. Bu Koşullarda yer alan hiçbir şey, ikamet ettiğiniz yerin geçerli yasaları uyarınca sahip olduğunuz ve vazgeçilemez tüketici haklarını veya korumalarını sınırlamaz.
 
 **Bu Koşullardaki Değişiklikler**
 
