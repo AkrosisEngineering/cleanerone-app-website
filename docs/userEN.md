@@ -1,36 +1,76 @@
-**Terms & Conditions**  
+**Terms of Use**
 
-These terms and conditions apply to the CleanerOne app (hereby referred to as "Application") for mobile devices that was created by Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (hereby referred to as "Service Provider") as a Commercial service.
+Effective date: 2026-04-07
 
-Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.
+These Terms of Use ("Terms") govern your use of the CleanerOne mobile application (the "Application"), provided by Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (the "Service Provider"). By downloading, installing, accessing, or using the Application, you agree to these Terms. If you do not agree, do not use the Application.
 
-Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited. Any attempts to extract the source code of the Application, translate the Application into other languages, or create derivative versions are not permitted. All trademarks, copyrights, database rights, and other intellectual property rights related to the Application remain the property of the Service Provider.
+**Acknowledgement**
 
-The Service Provider is dedicated to ensuring that the Application is as beneficial and efficient as possible. As such, they reserve the right to modify the Application or charge for their services at any time and for any reason. The Service Provider assures you that any charges for the Application or its services will be clearly communicated to you.
+These Terms are concluded between you and the Service Provider only, and not with Apple. The Service Provider, not Apple, is solely responsible for the Application and its content. These Terms supplement the Apple Media Services Terms and Conditions. If a usage rule in these Terms conflicts with Apple's applicable usage rules, Apple's rules govern to the extent required.
 
-The Application stores and processes personal data that you have provided to the Service Provider in order to provide the Service. It is your responsibility to maintain the security of your phone and access to the Application. The Service Provider strongly advise against jailbreaking or rooting your phone, which involves removing software restrictions and limitations imposed by the official operating system of your device. Such actions could expose your phone to malware, viruses, malicious programs, compromise your phone's security features, and may result in the Application not functioning correctly or at all.
+**Scope of License**
 
-Please note that the Application utilizes third-party services that have their own Terms and Conditions. Below are the links to the Terms and Conditions of the third-party service providers used by the Application:
+The Service Provider grants you a limited, non-exclusive, non-transferable, revocable license to use the Application on Apple-branded products that you own or control, as permitted by the Apple Media Services Terms and Conditions. Where Apple allows it, the Application may also be accessed through Family Sharing or volume purchasing.
 
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* You may not copy, modify, distribute, sell, lease, lend, sublicense, reverse engineer, decompile, or create derivative works from the Application except as expressly permitted by law.
+* All trademarks, copyrights, database rights, and other intellectual property rights in the Application remain the property of the Service Provider or its licensors.
 
-Please be aware that the Service Provider does not assume responsibility for certain aspects. Some functions of the Application require an active internet connection, which can be Wi-Fi or provided by your mobile network provider. The Service Provider cannot be held responsible if the Application does not function at full capacity due to lack of access to Wi-Fi or if you have exhausted your data allowance.
+**Subscriptions and Paid Features**
 
-If you are using the application outside of a Wi-Fi area, please be aware that your mobile network provider's agreement terms still apply. Consequently, you may incur charges from your mobile provider for data usage during the connection to the application, or other third-party charges. By using the application, you accept responsibility for any such charges, including roaming data charges if you use the application outside of your home territory (i.e., region or country) without disabling data roaming. If you are not the bill payer for the device on which you are using the application, they assume that you have obtained permission from the bill payer.
+The Application may offer premium features through Apple's in-app purchase system, including auto-renewable subscriptions.
 
-Similarly, the Service Provider cannot always assume responsibility for your usage of the application. For instance, it is your responsibility to ensure that your device remains charged. If your device runs out of battery and you are unable to access the Service, the Service Provider cannot be held responsible.
+* Subscription title, billing period, price, and renewal information are shown in the purchase screen before you subscribe.
+* Payment is handled by Apple according to Apple's terms and billing rules.
+* Auto-renewable subscriptions renew automatically unless canceled at least 24 hours before the end of the current billing period.
+* You can manage or cancel subscriptions in your Apple account settings.
 
-In terms of the Service Provider's responsibility for your use of the application, it is important to note that while they strive to ensure that it is updated and accurate at all times, they do rely on third parties to provide information to them so that they can make it available to you. The Service Provider accepts no liability for any loss, direct or indirect, that you experience as a result of relying entirely on this functionality of the application.
+**Maintenance and Support**
 
-The Service Provider may wish to update the application at some point. The application is currently available as per the requirements for the operating system (and for any additional systems they decide to extend the availability of the application to) may change, and you will need to download the updates if you want to continue using the application. The Service Provider does not guarantee that it will always update the application so that it is relevant to you and/or compatible with the particular operating system version installed on your device. However, you agree to always accept updates to the application when offered to you. The Service Provider may also wish to cease providing the application and may terminate its use at any time without providing termination notice to you. Unless they inform you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must cease using the application, and (if necessary) delete it from your device.
+The Service Provider is solely responsible for any maintenance and support services for the Application, to the extent required by law or expressly offered by the Service Provider. Apple has no obligation whatsoever to furnish maintenance or support services for the Application.
 
-**Changes to These Terms and Conditions**
+**Warranty Disclaimer and Limited Remedy**
 
-The Service Provider may periodically update their Terms and Conditions. Therefore, you are advised to review this page regularly for any changes. The Service Provider will notify you of any changes by posting the new Terms and Conditions on this page.
+The Application is provided on an "AS IS" and "AS AVAILABLE" basis to the maximum extent permitted by law. If the Application fails to conform to any applicable warranty that cannot be effectively disclaimed, you may notify Apple, and Apple may refund the purchase price for the Application, if any. To the maximum extent permitted by law, Apple has no other warranty obligation with respect to the Application, and any other claims, losses, liabilities, damages, costs, or expenses attributable to a failure to conform to a warranty are the Service Provider's responsibility.
 
-These terms and conditions are effective as of 2026-04-01
+**Product Claims**
 
-**Contact Us**
+The Service Provider, not Apple, is responsible for addressing any claims by you or any third party relating to the Application or your possession and use of the Application, including product liability claims, claims that the Application fails to conform to applicable legal or regulatory requirements, and claims arising under consumer protection, privacy, or similar laws.
 
-If you have any questions or suggestions about the Terms and Conditions, please do not hesitate to contact the Service Provider at support.cleanerone@akrosis.com.
+**Intellectual Property Claims**
+
+If a third party claims that the Application or your possession and use of the Application infringes that third party's intellectual property rights, the Service Provider, not Apple, is solely responsible for investigating, defending, settling, and discharging that claim.
+
+**Legal Compliance and Export Restrictions**
+
+By using the Application, you represent and warrant that:
+
+* you are not located in a country subject to a U.S. Government embargo or designated by the U.S. Government as a terrorist-supporting country
+* you are not listed on any U.S. Government list of prohibited or restricted parties
+* your use of the Application complies with applicable laws and regulations
+
+**Third-Party Terms and Services**
+
+Your use of the Application must also comply with applicable third-party terms, including your mobile carrier or data service agreement and Apple's platform terms. The Application may rely on third-party services such as Google Analytics for Firebase, Firebase Crashlytics, and Cloud Firestore for Firebase. The Service Provider is not responsible for third-party service interruptions or separate third-party terms.
+
+**Availability, Updates, and Termination**
+
+Some features may require internet access, and your carrier or internet provider may charge fees. The Service Provider may modify, suspend, update, or discontinue the Application at any time. Your rights under these Terms terminate automatically if you fail to comply with them, and upon termination you must stop using the Application and delete it from your devices.
+
+**Developer Contact Information**
+
+Akrosis Mühendislik San. ve Tic. LTD. ŞTİ.  
+Alaaddinbey Mah. 647. Sk. No: 1A-A7  
+Zer6 Plaza, Nilüfer / Bursa, Türkiye  
+Email: support.cleanerone@akrosis.com
+
+**Third-Party Beneficiary**
+
+You acknowledge and agree that Apple and Apple's subsidiaries are third-party beneficiaries of these Terms and may enforce them against you as a third-party beneficiary.
+
+**Governing Law**
+
+These Terms are governed by the laws of the Republic of Türkiye, excluding conflict of law rules, except where mandatory consumer protection laws of your place of residence apply.
+
+**Changes to These Terms**
+
+The Service Provider may update these Terms from time to time. Continued use of the Application after the updated Terms take effect constitutes acceptance of the revised Terms.

@@ -1,36 +1,76 @@
-**Koşullar ve Şartlar**
+**Kullanım Koşulları**
 
-Bu koşullar ve şartlar, Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (bundan sonra "Hizmet Sağlayıcı" olarak anılacaktır) tarafından ticari bir hizmet olarak oluşturulan mobil cihazlar için CleanerOne uygulaması (bundan sonra "Uygulama" olarak anılacaktır) için geçerlidir.
+Yürürlük tarihi: 2026-04-07
 
-Uygulamayı indirmeniz veya kullanmanız ile birlikte aşağıdaki koşulları otomatik olarak kabul etmiş olursunuz. Uygulamayı kullanmadan önce bu koşulları dikkatle okumanız ve tam olarak anlamanız şiddetle tavsiye edilir.
+Bu Kullanım Koşulları ("Koşullar"), Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. ("Hizmet Sağlayıcı") tarafından sunulan CleanerOne mobil uygulamasını ("Uygulama") kullanımınızı düzenler. Uygulamayı indirerek, yükleyerek, erişerek veya kullanarak bu Koşulları kabul etmiş olursunuz. Kabul etmiyorsanız Uygulamayı kullanmayın.
 
-Uygulamanın, herhangi bir bölümünün veya markalarımızın izinsiz kopyalanması ya da değiştirilmesi kesinlikle yasaktır. Uygulamanın kaynak kodunu çıkarmaya çalışmak, uygulamayı başka dillere çevirmek veya türev sürümler oluşturmak yasaklanmıştır. Uygulamaya ilişkin tüm markalar, telif hakları, veritabanı hakları ve diğer fikri mülkiyet hakları Hizmet Sağlayıcı'ya aittir.
+**Kabul ve Taraflar**
 
-Hizmet Sağlayıcı, Uygulamanın olabildiğince yararlı ve verimli olmasını sağlamaya kararlıdır. Bu nedenle, Hizmet Sağlayıcı herhangi bir zamanda ve herhangi bir nedenle Uygulamayı değiştirme veya hizmetleri için ücret talep etme hakkını saklı tutar. Hizmet Sağlayıcı, Uygulama veya hizmetleri için uygulanacak ücretlerin size açıkça bildirileceğini taahhüt eder.
+Bu Koşullar yalnızca sizinle Hizmet Sağlayıcı arasında akdedilir; Apple bu sözleşmenin tarafı değildir. Uygulama ve içeriğiyle ilgili tek sorumlu Apple değil, Hizmet Sağlayıcıdır. Bu Koşullar, Apple Medya Hizmetleri Hüküm ve Koşullarını tamamlar. Bu Koşullardaki bir kullanım kuralı Apple'ın geçerli kullanım kurallarıyla çelişirse, gerekli olduğu ölçüde Apple'ın kuralları geçerli olur.
 
-Uygulama, Hizmeti sunabilmek amacıyla Hizmet Sağlayıcı'ya sağladığınız kişisel verileri saklar ve işler. Telefonunuzun ve Uygulamaya erişimin güvenliğini korumak sizin sorumluluğunuzdadır. Hizmet Sağlayıcı, cihazınızın resmi işletim sistemi tarafından getirilen yazılım kısıtlamalarını ve güvenlik sınırlarını kaldırmayı içeren jailbreak veya root işlemlerini şiddetle önermemektedir. Bu tür işlemler telefonunuzu kötü amaçlı yazılımlara, virüslere ve zararlı programlara açık hale getirebilir, cihazınızın güvenlik özelliklerini zedeleyebilir ve Uygulamanın doğru veya hiç çalışmamasına neden olabilir.
+**Lisansın Kapsamı**
 
-Lütfen Uygulamanın, kendi Koşullar ve Şartlar metinlerine sahip üçüncü taraf hizmetleri kullandığını unutmayın. Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcılarının Koşullar ve Şartlar bağlantıları aşağıdadır:
+Hizmet Sağlayıcı size, Apple Medya Hizmetleri Hüküm ve Koşulları kapsamında izin verildiği şekilde, sahip olduğunuz veya kontrol ettiğiniz Apple markalı cihazlarda Uygulamayı kullanmanız için sınırlı, münhasır olmayan, devredilemez ve geri alınabilir bir lisans verir. Apple'ın izin verdiği durumlarda Uygulama, Aile Paylaşımı veya toplu satın alma kapsamında ilişkili hesaplar tarafından da kullanılabilir.
 
-*   [Google Analytics for Firebase](https://www.google.com/analytics/terms/)
-*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
+* Uygulamayı, yürürlükteki mevzuat açıkça izin vermedikçe kopyalayamaz, değiştiremez, dağıtamaz, satamaz, kiralayamaz, ödünç veremez, alt lisanslayamaz, tersine mühendislik uygulayamaz veya türev eser üretemezsiniz.
+* Uygulamaya ilişkin tüm marka, telif, veritabanı ve diğer fikri mülkiyet hakları Hizmet Sağlayıcıya veya lisans verenlerine aittir.
 
-Hizmet Sağlayıcı, belirli konularda sorumluluk kabul etmez. Uygulamanın bazı işlevleri aktif bir internet bağlantısı gerektirir; bu bağlantı Wi-Fi veya mobil ağ sağlayıcınız tarafından sağlanabilir. Wi-Fi erişiminiz yoksa veya veri kotanız tükendiyse, Uygulamanın tam kapasiteyle çalışmamasından Hizmet Sağlayıcı sorumlu tutulamaz.
+**Abonelikler ve Ücretli Özellikler**
 
-Uygulamayı Wi-Fi kapsama alanının dışında kullanıyorsanız, mobil ağ sağlayıcınızla yaptığınız sözleşmenin koşullarının hala geçerli olduğunu unutmayın. Buna bağlı olarak uygulamaya bağlanırken veri kullanımından veya diğer üçüncü taraf ücretlerinden dolayı mobil sağlayıcınız tarafından ücretlendirilebilirsiniz. Uygulamayı kullanarak, veri dolaşımı kapatılmadan kendi bölgeniz veya ülkeniz dışında kullanım dahil olmak üzere bu tür ücretlerin sorumluluğunu kabul etmiş olursunuz. Uygulamayı kullandığınız cihazın fatura ödeyeni siz değilseniz, Hizmet Sağlayıcı bunun için gerekli izni aldığınızı varsayar.
+Uygulama, Apple'ın uygulama içi satın alma sistemi üzerinden auto-renewable subscription dahil premium özellikler sunabilir.
 
-Benzer şekilde, Hizmet Sağlayıcı uygulamayı kullanım biçiminiz konusunda her zaman sorumluluk üstlenemez. Örneğin, cihazınızın şarjının dolu kalmasını sağlamak sizin sorumluluğunuzdadır. Cihazınızın şarjı biter ve Hizmete erişemezseniz, Hizmet Sağlayıcı bundan sorumlu tutulamaz.
+* Abonelik adı, faturalama dönemi, fiyat ve yenileme bilgileri, satın alma onayı vermeden önce satın alma ekranında gösterilir.
+* Ödeme, Apple'ın kendi şartları ve faturalama kuralları uyarınca Apple tarafından işlenir.
+* Auto-renewable subscription, mevcut faturalama döneminin bitiminden en az 24 saat önce iptal edilmezse otomatik yenilenir.
+* Aboneliklerinizi Apple hesap ayarlarınız üzerinden yönetebilir veya iptal edebilirsiniz.
 
-Hizmet Sağlayıcı'nın uygulamayı kullanımınıza ilişkin sorumluluğu açısından, Uygulamayı her zaman güncel ve doğru tutmaya çalışsa da, size sunabilmek için bilgi sağlayan üçüncü taraflara dayandığını bilmeniz önemlidir. Hizmet Sağlayıcı, uygulamanın bu işlevine tamamen güvenmeniz sonucunda yaşayabileceğiniz doğrudan veya dolaylı hiçbir kayıptan sorumluluk kabul etmez.
+**Bakım ve Destek**
 
-Hizmet Sağlayıcı, bir noktada Uygulamayı güncellemek isteyebilir. Uygulama şu anda mevcut işletim sistemi gereksinimlerine göre sunulmaktadır ve uygulamanın destekleyeceği ek sistemlerin gereksinimleri zamanla değişebilir. Uygulamayı kullanmaya devam etmek istiyorsanız güncellemeleri indirmeniz gerekir. Hizmet Sağlayıcı, Uygulamayı her zaman sizin için ilgili tutacak veya cihazınızda yüklü belirli işletim sistemi sürümüyle uyumlu hale getirecek şekilde güncelleyeceğini garanti etmez. Ancak size sunulduğunda uygulama güncellemelerini her zaman kabul etmeyi kabul edersiniz. Hizmet Sağlayıcı ayrıca Uygulamayı sunmayı durdurmak isteyebilir ve size ayrı bir fesih bildirimi yapmadan kullanımınızı sonlandırabilir. Aksi belirtilmedikçe, böyle bir durumda (a) bu koşullarda size tanınan haklar ve lisanslar sona erer; (b) Uygulamayı kullanmayı bırakmalı ve gerekirse cihazınızdan silmelisiniz.
+Uygulama için bakım ve destek hizmetlerinden, yürürlükteki hukuk gerektiriyorsa veya Hizmet Sağlayıcı açıkça sunuyorsa, yalnızca Hizmet Sağlayıcı sorumludur. Apple'ın Uygulama için herhangi bir bakım veya destek hizmeti sağlama yükümlülüğü yoktur.
 
-**Bu Koşullar ve Şartlardaki Değişiklikler**
+**Garanti Reddi ve Sınırlı Çözüm**
 
-Hizmet Sağlayıcı, bu Koşullar ve Şartlar metnini zaman zaman güncelleyebilir. Bu nedenle bu sayfayı düzenli olarak kontrol etmeniz tavsiye edilir. Hizmet Sağlayıcı, yeni Koşullar ve Şartlar metnini bu sayfada yayımlayarak sizi değişikliklerden haberdar edecektir.
+Uygulama, hukukun izin verdiği azami ölçüde "OLDUĞU GİBİ" ve "MEVCUT OLDUĞU ŞEKİLDE" sunulur. Uygulama, feragat edilmesi hukuken mümkün olmayan geçerli bir garantiye uymazsa Apple'a bildirimde bulunabilirsiniz ve Apple varsa Uygulama için ödediğiniz satın alma bedelini iade edebilir. Hukukun izin verdiği azami ölçüde Apple'ın Uygulama ile ilgili başka bir garanti yükümlülüğü yoktur; garantiye uyumsuzluktan doğan diğer talep, kayıp, yükümlülük, zarar, maliyet ve giderlerden Hizmet Sağlayıcı sorumludur.
 
-Bu koşullar ve şartlar 2026-04-01 tarihinden itibaren geçerlidir.
+**Ürünle İlgili Talepler**
 
-**Bize Ulaşın**
+Uygulama veya Uygulamaya sahip olmanız ya da kullanmanızla ilgili olarak sizin veya herhangi bir üçüncü tarafın ileri sürebileceği taleplerin muhatabı Apple değil, Hizmet Sağlayıcıdır. Buna ürün sorumluluğu talepleri, Uygulamanın geçerli yasal veya düzenleyici gerekliliklere uymadığı iddiaları ve tüketici koruması, gizlilik veya benzeri mevzuatlardan doğan talepler dahildir.
 
-Koşullar ve Şartlar hakkında herhangi bir sorunuz veya öneriniz varsa, support.cleanerone@akrosis.com adresi üzerinden Hizmet Sağlayıcı ile iletişime geçmekten çekinmeyin.
+**Fikri Mülkiyet Talepleri**
+
+Bir üçüncü taraf, Uygulamanın veya Uygulamayı sahip olmanızın ve kullanmanızın o üçüncü tarafın fikri mülkiyet haklarını ihlal ettiğini iddia ederse, bu iddianın araştırılması, savunulması, uzlaşılması ve sonuçlandırılmasından Apple değil, Hizmet Sağlayıcı tek başına sorumludur.
+
+**Yasal Uyum ve İhracat Kısıtlamaları**
+
+Uygulamayı kullanarak şunları beyan ve taahhüt edersiniz:
+
+* ABD Hükümeti ambargosuna tabi olan veya ABD Hükümeti tarafından terörü destekleyen ülke olarak tanımlanan bir ülkede bulunmuyorsunuz.
+* ABD Hükümetinin yasaklı veya kısıtlı taraflar listesinde yer almıyorsunuz.
+* Uygulamayı kullanımınız yürürlükteki tüm yasa ve düzenlemelere uygundur.
+
+**Üçüncü Taraf Şartları ve Hizmetleri**
+
+Uygulamayı kullanırken mobil operatör veya veri hizmeti sözleşmeniz ile Apple'ın platform şartları dahil olmak üzere geçerli üçüncü taraf şartlarına da uymanız gerekir. Uygulama, Google Analytics for Firebase, Firebase Crashlytics ve Cloud Firestore for Firebase gibi üçüncü taraf hizmetlere dayanabilir. Hizmet Sağlayıcı, üçüncü taraf hizmet kesintilerinden veya bu hizmetlerin ayrı şartlarından sorumlu değildir.
+
+**Erişilebilirlik, Güncellemeler ve Sona Erme**
+
+Bazı özellikler internet erişimi gerektirebilir ve operatörünüz veya internet sağlayıcınız ücret yansıtabilir. Hizmet Sağlayıcı, Uygulamayı herhangi bir zamanda değiştirebilir, askıya alabilir, güncelleyebilir veya sonlandırabilir. Bu Koşullara uymazsanız, bu Koşullar kapsamındaki haklarınız kendiliğinden sona erer ve bu durumda Uygulamayı kullanmayı bırakıp cihazlarınızdan silmeniz gerekir.
+
+**Geliştirici İletişim Bilgileri**
+
+Akrosis Mühendislik San. ve Tic. LTD. ŞTİ.  
+Alaaddinbey Mah. 647. Sk. No: 1A-A7  
+Zer6 Plaza, Nilüfer / Bursa, Türkiye  
+E-posta: support.cleanerone@akrosis.com
+
+**Üçüncü Taraf Lehdar**
+
+Apple ve Apple'ın bağlı ortaklıklarının bu Koşulların üçüncü taraf lehdarı olduğunu ve size karşı bu Koşulları üçüncü taraf lehdar sıfatıyla ileri sürebileceğini kabul edersiniz.
+
+**Uygulanacak Hukuk**
+
+Bu Koşullar, ikamet ettiğiniz yerde uygulanması zorunlu tüketici koruma kuralları saklı kalmak kaydıyla, Türkiye Cumhuriyeti hukukuna tabidir.
+
+**Bu Koşullardaki Değişiklikler**
+
+Hizmet Sağlayıcı bu Koşulları zaman zaman güncelleyebilir. Güncellenen Koşullar yürürlüğe girdikten sonra Uygulamayı kullanmaya devam etmeniz, revize edilen Koşulları kabul ettiğiniz anlamına gelir.
