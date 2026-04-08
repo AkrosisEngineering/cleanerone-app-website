@@ -1,6 +1,6 @@
 **Terms of Use**
 
-Effective date: 2026-04-07
+Effective date: 2026-04-08
 
 These Terms of Use ("Terms") govern your use of the CleanerOne mobile application (the "Application"), provided by Akrosis Mühendislik San. ve Tic. LTD. ŞTİ. (the "Service Provider"). By downloading, installing, accessing, or using the Application, you agree to these Terms. If you do not agree, do not use the Application.
 
@@ -15,7 +15,9 @@ The Service Provider grants you a limited, non-exclusive, non-transferable, revo
 * You may not copy, modify, distribute, sell, lease, lend, sublicense, reverse engineer, decompile, or create derivative works from the Application except as expressly permitted by law.
 * All trademarks, copyrights, database rights, and other intellectual property rights in the Application remain the property of the Service Provider or its licensors.
 
-**Subscriptions and Paid Features**
+**Subscriptions, Free Access, and Advertising**
+
+The Application may be offered in both free and premium forms. The free version may include feature limitations and may display advertising supplied by third-party advertising services. The premium version may remove or reduce certain limits or ads depending on the offer presented in the Application.
 
 The Application may offer premium features through Apple's in-app purchase system, including auto-renewable subscriptions.
 
@@ -24,6 +26,14 @@ The Application may offer premium features through Apple's in-app purchase syste
 * Auto-renewable subscriptions renew automatically unless canceled before the end of the current billing period.
 * If you cancel a subscription, cancellation will take effect at the end of the then-current billing period, and you will retain access to subscribed features until that period expires.
 * You can manage or cancel subscriptions in your Apple account settings.
+
+**Advertising and Privacy Choices**
+
+If you use the free or ad-supported portions of the Application, ads may be displayed through third-party advertising services, including Google AdMob. Depending on your region, your device settings, and the choices you make in privacy or tracking prompts, ads may be personalized or non-personalized.
+
+Denying tracking permission does not necessarily prevent the Application from showing ads. It may instead limit the use of certain identifiers for personalized advertising and attribution.
+
+Where required by applicable law and supported in the Application, you may be able to review or update certain advertising privacy choices from within the Application.
 
 **Maintenance and Support**
 
@@ -35,7 +45,7 @@ The Application is provided on an "AS IS" and "AS AVAILABLE" basis to the maximu
 
 **Product Claims**
 
-The Service Provider, not Apple, is responsible for addressing any claims by you or any third party relating to the Application or your possession and use of the Application, including product liability claims, claims that the Application fails to conform to applicable legal or regulatory requirements, and claims arising under consumer protection, privacy, or similar laws.
+The Service Provider, not Apple, is responsible for addressing any claims by you or any third party relating to the Application or your possession and use of the Application, including product liability claims, claims that the Application fails to conform to applicable legal or regulatory requirements, and claims arising under consumer protection, privacy, advertising, or similar laws.
 
 **Intellectual Property Claims**
 
@@ -51,7 +61,7 @@ By using the Application, you represent and warrant that:
 
 **Third-Party Terms and Services**
 
-Your use of the Application must also comply with applicable third-party terms, including your mobile carrier or data service agreement and Apple's platform terms. The Application may rely on third-party services such as Google Analytics for Firebase, Firebase Crashlytics, and Cloud Firestore for Firebase. The Service Provider is not responsible for third-party service interruptions or separate third-party terms.
+Your use of the Application must also comply with applicable third-party terms, including your mobile carrier or data service agreement and Apple's platform terms. The Application may rely on third-party services such as Google AdMob, Google User Messaging Platform (UMP), Google Analytics for Firebase, Firebase Crashlytics, and Cloud Firestore for Firebase. The Service Provider is not responsible for third-party service interruptions, ad delivery outcomes, or separate third-party terms and policies.
 
 **Availability, Updates, and Termination**
 
