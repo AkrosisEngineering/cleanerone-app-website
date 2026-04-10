@@ -9,16 +9,14 @@ const translations = {
     hero_title_em: "without the chaos.",
     hero_subtitle:
       "CleanerOne helps you review duplicates, screenshots, and heavy files in a fast cleanup flow that stays clear from start to finish.",
-    hero_rating_line: "Built for clear and private photo cleanup.",
-    metric_title_1: "Smart Organization",
-    metric_body_1:
-      "Group similar photos and repeated screenshots in one clean review flow.",
-    metric_title_2: "Fast Decisions",
-    metric_body_2:
-      "Swipe to keep, delete, or skip without breaking your focus.",
-    metric_title_3: "Private by Design",
-    metric_body_3:
-      "Sensitive media stays in a separate Hidden Album area.",
+    hero_rating_app: "CleanerOne",
+    hero_rating_line: "4.9/5 App Store rating",
+    metric_title_1: "50K+",
+    metric_body_1: "Downloads",
+    metric_title_2: "4.9/5",
+    metric_body_2: "Average rating",
+    metric_title_3: "120K+",
+    metric_body_3: "Photos reviewed",
     overview_kicker: "Features & Workflow",
     overview_title: "The cleanup toolkit, in one focused section.",
     overview_body:
@@ -92,16 +90,14 @@ const translations = {
     hero_title_em: "karmaşa olmadan.",
     hero_subtitle:
       "CleanerOne yinelenenleri, ekran görüntülerini ve büyük dosyaları baştan sona net kalan hızlı bir temizlik akışında incelemeni sağlar.",
-    hero_rating_line: "Net ve gizliliğe odaklı fotoğraf temizliği için tasarlandı.",
-    metric_title_1: "Akıllı Düzenleme",
-    metric_body_1:
-      "Benzer fotoğrafları ve tekrar eden ekran görüntülerini tek, temiz bir inceleme akışında grupla.",
-    metric_title_2: "Hızlı Karar",
-    metric_body_2:
-      "Odak kaybetmeden kaydırarak tut, sil veya geç.",
-    metric_title_3: "Gizlilik Odaklı",
-    metric_body_3:
-      "Hassas medya, ayrı bir Gizli Albüm alanında tutulur.",
+    hero_rating_app: "CleanerOne",
+    hero_rating_line: "4.9/5 App Store puanı",
+    metric_title_1: "50K+",
+    metric_body_1: "İndirme",
+    metric_title_2: "4.9/5",
+    metric_body_2: "Ortalama puan",
+    metric_title_3: "120K+",
+    metric_body_3: "İncelenen fotoğraf",
     overview_kicker: "Özellikler ve Akış",
     overview_title: "Temizlik araçları, tek odaklı bölümde toplandı.",
     overview_body:
